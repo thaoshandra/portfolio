@@ -1,0 +1,130 @@
+html {
+    min-height: 100%;
+}
+
+
+body {
+    
+  background: #c8a47e;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    text-transform:  uppercase;
+    font-family: bebas neue;
+    font-size: 60px;
+    letter-spacing: 10px;
+}
+
+h2 {
+    color: black;
+    text-align: left;
+    font-family: poppins;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+h3 {
+    color: black;
+    text-align: left;
+    font-family: poppins;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+h4 {
+    color: black;
+    text-align: left;
+    font-family: poppins;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+p {
+    font-family: poppins;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.content {
+    width: 85%;
+    margin: auto;
+    padding: 0.3px 20px 20px 20px;
+    
+}
+
+.content a {
+    color: black;
+    font-family: poppins;
+    font-weight: bold;
+    
+}
+
+.first {
+    padding-right: 100px;
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+}
+
+.main {
+    width: 80%;
+    padding-top: 10px;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.navlinks a {
+    text-decoration: none;
+    color: black;
+    font-family: bebas neue;
+    font-weight: bold;
+    letter-spacing: 2px;
+    padding-right: 15px;
+}
+
+.space {
+    height: 100px;
+}
+
+.spacetwo {
+    height: 50px;
+}
+
+.text {
+    display: inline;
+    text-align: justify;
+}
+
+.topbottom {
+    width: 85%;
+    margin: auto;
+    padding: 0.3px 20px 20px 20px;
+    display: flex;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.visuals {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 70%;
+    margin: auto;
+    padding: auto;
+}
+
+.visuals img {
+    margin: 10px;
+}

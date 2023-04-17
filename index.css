@@ -148,3 +148,8 @@ p {
 .visuals img {
     margin: 10px;
 }
+
+#credit {
+    color: black;
+    font-size: 14px;
+}

@@ -1,0 +1,39 @@
+img {
+    width: 30%;
+    padding-right: 70px;
+    display: block;
+
+}
+
+.content {
+    width: 80% !important;
+    margin-left: 100px !important;
+    padding: 0.3px 20px 20px 20px;
+    
+}
+
+.description {
+    color: black; 
+    font-family: poppins;
+    font-size: 18px;
+}
+
+.image-link {
+    padding: 0 !important;
+    border: none !important;
+    margin: 0 !important;
+    display: inline-block !important;
+}
+
+.label {
+    color: black;
+    font-size: 30px !important;
+    font-weight: bold;
+}
+
+
+.proj {
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+}
